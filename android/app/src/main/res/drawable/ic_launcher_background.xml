@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The adaptive icon's background layer.
+
+  This was the stock Android Studio template - the #3DDC84 green with a white
+  grid over it - which the Flutter project template ships and which nobody had
+  replaced. The JEOM foreground is a rounded blue tile, so on API 26+ the
+  launcher was compositing the client's logo over Android's green.
+
+  It is now the flat white the icon pack itself specifies in
+  android/values/ic_launcher_background.xml, so the adaptive icon and the legacy
+  ic_launcher.webp show the same thing.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0h108v108h-108z" />
+</vector>
